@@ -8,7 +8,7 @@ The goal is to create an evaporation cooling system (aka a swamp cooler). In dry
 
 The schematic below shows the general operation of the cooler.
 
-swamp_cooler.jpg
+![image](https://user-images.githubusercontent.com/70356127/141838711-e9ad0630-05e2-4a20-8e23-8302aa2c1dc2.png)
 
 Here is an image of a cooler without external panels attached so that the pad and fan are visible.
 
